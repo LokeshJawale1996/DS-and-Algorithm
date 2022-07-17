@@ -7,3 +7,4 @@ some JavaScript coding challenges related to DS AND Algorithm
 - [check strings are Anagram or not](./challenges/Anagram.js)
 - [count cf unique numbers in array- o(n)](./challenges/countUnique.js)
 - [Find Largest Sum](./challenges/largestSum.js)
+- [Find the index of Number in sorted array using Binary Search](./challenges/binarySearch.js)
