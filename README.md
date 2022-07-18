@@ -8,4 +8,5 @@ some JavaScript coding challenges related to DS AND Algorithm
 - [count cf unique numbers in array- o(n)](./challenges/countUnique.js)
 - [Find Largest Sum](./challenges/largestSum.js)
 - [Find the index of Number in sorted array using Binary Search](./challenges/binarySearch.js)
-- [Checking Sqaure in another Array](./challenges/checkSquare.js)
+- [Checking Sqaure in another Array - O(n^2)](./challenges/checkSquare.js)
+- [Checking Sqaure in another Array - O(n)](./challenges/checkSquareNew.js)
